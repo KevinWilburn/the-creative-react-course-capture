@@ -37,6 +37,10 @@ const GlobalStyle = createGlobalStyle`
             line-height:150%;
 
         }
+        h4{
+            font-weight: bold;
+            font-size: 2rem;
+        }
         span{
             font-weight: bold;
             color: #23d997
